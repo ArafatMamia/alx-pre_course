@@ -3,3 +3,4 @@
 This is a readme file for github repo using Markdown.
 
 * this is ALX project three
+* pretty cool
